@@ -1,3 +1,7 @@
+⚠ This repository is archived and now part of [serverless-dns](https://github.com/serverless-dns/serverless-dns) repository.
+
+---
+
 This is a rethink plugin repository for rethink serverless dns.
 1. Dns resolver plugin
     This plugin forwards dns request to upstream resolver which is configurable at worker's environment variable.
